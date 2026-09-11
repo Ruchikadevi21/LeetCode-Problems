@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
