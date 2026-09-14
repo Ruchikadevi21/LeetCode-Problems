@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
