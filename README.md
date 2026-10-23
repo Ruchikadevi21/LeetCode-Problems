@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ruchikadevi21/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
