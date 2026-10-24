@@ -6,13 +6,9 @@ class Solution {
         int num=0;
         int a=x;
         while(a>0){
-            int rem = a%10;
-            num=num*10+rem;
+            num=num*10+a%10;
             a/=10;
         }
-        if(num==x){
-            return true;
-        }
-        return false;
+        return num==x;
     }
 }
