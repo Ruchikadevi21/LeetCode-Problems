@@ -3,7 +3,7 @@ class Solution {
         if(x<0){
             return false;
         }
-        int num=0;
+        long num=0;
         int a=x;
         while(a>0){
             num=num*10+a%10;
