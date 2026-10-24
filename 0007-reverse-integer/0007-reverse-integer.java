@@ -1,21 +1,21 @@
 class Solution {
     public int reverse(int x) {
-        int a=x;
-        long ans=0;
+        int flag=0;
         if(x<0){
-            x*=(-1);
+            flag=1;
+            x*=-1;
         }
+        long num=0;
         while(x>0){
-            int num = x%10;
-            ans = ans*10+num;
-            x = x/10;
+            num=num*10+x%10;
+            x/=10;
         }
-        if(a<0){
-            ans = ans*(-1);
+        if(flag==1){
+            num*=-1;
         }
-        if(ans>=Math.pow(2,31)-1 || ans <= -(Math.pow(2,31))){
-            ans = 0;
+        if(num>Math.pow(2,31)-1 || num<(Math.pow(2,31)*(-1)) ){
+            num=0;
         }
-        return (int)ans;
+        return (int)num;
     }
 }
